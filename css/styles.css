@@ -1,0 +1,33 @@
+/******************************Tag Selector******************************/
+hr{
+	border-color : #393e46; 
+	border-style: none;
+	border-top-style: solid;
+	border-width: 3px;
+}
+h1{
+	color : #00adb5;
+	font-family : segoe print;
+}
+
+
+/******************************Class Selector******************************/
+.one{
+	background-color: #a6e3e9 ;
+}
+.two{
+	background-color : #a0ffe6;
+	font-family: monospace;
+}
+.three{
+	background-color : #cbf1f5;
+}
+.circular{
+	border-radius : 100%;
+}
+/******************************ID Selector******************************/
+#first{
+	color : #11999e;
+	font-family: ink free;
+	font-size: 30px;
+}
